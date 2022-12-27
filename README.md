@@ -7,5 +7,5 @@
 3. Запускаем start.bat
 
 # Установка | Способ №2
-1. Переходим: https://github.com/kararasenok-gd/infinity-minus/releases/tag/versions
+1. Переходим: https://github.com/kararasenok-gd/infinity-minus/releases/
 2. Скачиваем .exe файл и открываем его!
